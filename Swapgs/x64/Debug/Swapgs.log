@@ -1,0 +1,15 @@
+﻿C:\Users\14917\source\repos\Swapgs\Swapgs\Swapgs.vcxproj(61,5): warning MSB4011: 无法再次导入“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.props”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\10.0.22621.0\WindowsDriver.Shared.props (352,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+C:\Users\14917\source\repos\Swapgs\Swapgs\Swapgs.vcxproj(103,5): warning MSB4011: 无法再次导入“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\10.0.22621.0\WindowsDriver.common.targets (1917,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+  Building 'Swapgs' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Assembling MySwapgs.asm...
+  DrvMain.cpp
+  Swapgs.vcxproj -> C:\Users\14917\source\repos\Swapgs\x64\Debug\Swapgs.sys
+C:\Users\14917\source\repos\Swapgs\Swapgs\Swapgs.vcxproj(61,5): warning MSB4011: 无法再次导入“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.props”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\10.0.22621.0\WindowsDriver.Shared.props (352,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+C:\Users\14917\source\repos\Swapgs\Swapgs\Swapgs.vcxproj(103,5): warning MSB4011: 无法再次导入“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\10.0.22621.0\WindowsDriver.common.targets (1917,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+  Done Adding Additional Store
+  Successfully signed: C:\Users\14917\source\repos\Swapgs\x64\Debug\Swapgs.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
+C:\Users\14917\source\repos\Swapgs\Swapgs\Swapgs.vcxproj(61,5): warning MSB4011: 无法再次导入“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.props”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\10.0.22621.0\WindowsDriver.Shared.props (352,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+C:\Users\14917\source\repos\Swapgs\Swapgs\Swapgs.vcxproj(103,5): warning MSB4011: 无法再次导入“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\10.0.22621.0\WindowsDriver.common.targets (1917,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
